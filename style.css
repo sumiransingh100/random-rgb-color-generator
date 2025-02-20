@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 70px;
+  }
+  button{
+    padding: 12px;
+  }
+  .colorBox{
+    height: 300px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 23px;
+  }
